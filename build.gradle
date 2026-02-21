@@ -48,6 +48,6 @@ sourceSets {
 
 // УБРАЛИ явное копирование из секции war!
 war {
-    archiveBaseName = 'notweb3testlab'
+    archiveBaseName = 'pain4web'
     archiveVersion = '1.0-SNAPSHOT'
 }
